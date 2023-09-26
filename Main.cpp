@@ -5,5 +5,6 @@ int main(void) {
 	int i;
 	int j;
 	int k;
+	cout << 12;
 	return 0;
 }
